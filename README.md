@@ -19,5 +19,5 @@ Jika ingin mengedit source code bisa menggunakan vim/micro/nano
 Caranya dengan command : micro Main.cpp
 Pastikan text editor yang digunakan sudah terinstall terlebih dahulu.
 
-Username : admin
-Password : icang
+Username : @215
+Password : @215
