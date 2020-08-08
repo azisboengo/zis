@@ -84,7 +84,7 @@ void love(int &i, int &j)
               cout<<"\n";
            }
            cout << "\nThanks :)\n"
-				<< "I LOVE YOU\n";
+				<< "EROR SQUAD\n";
 }
 void header()
 {
@@ -96,9 +96,9 @@ void header()
 		 << "\tS I M P - T O O L S\n"
 		 << "\t___________________\n\n";
 	cout << "Time now : " << dt << "\n\n"
-		 << "Hai will you marry me, jwb baik2 kalo tdk gw hack?\n"
+		 << "Hai will you marry me?\n"
 		 << "[m] : \"mau\"\n"
-		 << "[t] : \"mau banget\"\n\n"
+		 << "[t] : \"Tidak Nolak\"\n\n"
 		 << "> "; 
 		 
 }
