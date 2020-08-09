@@ -96,7 +96,7 @@ void header()
 		 << "\tS I M P - T O O L S\n"
 		 << "\t___________________\n\n";
 	cout << "Time now : " << dt << "\n\n"
-		 << "Hai will you marry me?\n"
+		 << "Hai will you marry me? mohon jwb yg baik, kalo tidak saya hack\n"
 		 << "[m] : \"mau\"\n"
 		 << "[t] : \"Tidak Nolak\"\n\n"
 		 << "> "; 
